@@ -1,0 +1,21 @@
+---
+compiled_package_info:
+  package_name: color_object
+  address_alias_instantiation:
+    more_move: "0000000000000000000000000000000000000000"
+    std: "0000000000000000000000000000000000000001"
+    sui: "0000000000000000000000000000000000000002"
+  source_digest: BDB9D1C773FA8D6C753E68CFF5A2BD57521A3CAC611A9A108A18C81806B091F5
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+dependencies:
+  - MoveStdlib
+  - Sui

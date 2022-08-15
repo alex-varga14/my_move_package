@@ -1,0 +1,10 @@
+[package]
+name = "color_object"
+version = "0.0.1"
+
+[dependencies]
+MoveStdlib = { local = "../../sui/crates/sui-framework/deps/move-stdlib/" }
+Sui = { local = "../../sui/crates/sui-framework" }
+
+[addresses]
+more_move = "0x0"

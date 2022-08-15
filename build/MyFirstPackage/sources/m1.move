@@ -71,8 +71,6 @@ module my_first_package::m1 {
         transfer::transfer(sword, recipient);
     }
 
-
-
     #[test]
     public fun test_module_init() {
         use sui::test_scenario;
