@@ -1,0 +1,7 @@
+2022-08-16T00:43:39.783012Z  INFO sui::client_commands: Showing 1 results.
+2022-08-16T00:43:39.783953Z  INFO sui::client_commands: 0x562ecdb986e07ffd387c051b331a091ef0e9475f
+2022-08-16T00:44:42.067792Z  INFO sui::client_commands: 0x562ecdb986e07ffd387c051b331a091ef0e9475f
+2022-08-16T03:54:25.570908Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-16T03:54:25.570889Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-16T03:54:25.685265Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-16T03:54:25.685295Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped

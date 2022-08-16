@@ -5,10 +5,10 @@ compiled_package_info:
     more_move: "0000000000000000000000000000000000000000"
     std: "0000000000000000000000000000000000000001"
     sui: "0000000000000000000000000000000000000002"
-  source_digest: BDB9D1C773FA8D6C753E68CFF5A2BD57521A3CAC611A9A108A18C81806B091F5
+  source_digest: 55C76E68B0321B1531CFF80597AD55E2BA446A94F21639759D27ED8F0B9AC3A3
   build_flags:
-    dev_mode: true
-    test_mode: true
+    dev_mode: false
+    test_mode: false
     generate_docs: false
     generate_abis: false
     install_dir: ~

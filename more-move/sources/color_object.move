@@ -48,6 +48,11 @@ module more_move::color_object {
     // == Functions covered in Chapter 2 ==
 
     /// Copies the values of `from_object` into `into_object`.
+    // from_object: read only because we only need its fields
+    // Conversly, into_object: mutable because we need to mutate it
+
+    // In order for a txn to make a call to the copy_into function,
+    // THE SENDER OF THE TXN MUST BE THE OWNER OF BOTH OF "from_object" and "into_object"
     public entry fun copy_into(from_object: &ColorObject, into_object: &mut ColorObject) {
         into_object.red = from_object.red;
         into_object.green = from_object.green;
