@@ -1,0 +1,12 @@
+2022-08-18T00:31:24.973019Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-18T00:31:24.973117Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-18T00:31:25.002889Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-18T00:31:25.002901Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-18T00:31:30.613263Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-18T00:31:30.613278Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-18T00:31:30.635724Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-18T00:31:30.635739Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-18T00:32:00.636363Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-18T00:32:00.636349Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-18T00:32:00.658500Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-18T00:32:00.658501Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped

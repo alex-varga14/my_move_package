@@ -1,0 +1,183 @@
+2022-08-19T20:31:01.651767Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:31:01.651775Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:31:01.678757Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:31:01.678769Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:33:59.811973Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:33:59.811952Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:33:59.863999Z  INFO sui::client_commands: Showing 5 results.
+2022-08-19T20:33:59.864064Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-19T20:33:59.864093Z  INFO sui::client_commands: 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-19T20:33:59.864131Z  INFO sui::client_commands: 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-19T20:33:59.864135Z  INFO sui::client_commands: 0x2fdcc18509b0ffa97008d2d5f6f7161410f66e25
+2022-08-19T20:33:59.864136Z  INFO sui::client_commands: 0xb731a4a5251d37065a5e97f557fce60f8d37b170
+2022-08-19T20:33:59.864623Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:33:59.864649Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:34:57.083788Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:34:57.083781Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:34:59.407245Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-19T20:34:59.407284Z  INFO sui::client_commands: Transaction Hash: 4xD8//jR98v8NNcCWY+6hxz/CcN5SDhUeCK1sMz1pBM=
+2022-08-19T20:34:59.407313Z  INFO sui::client_commands: Transaction Signature: PE2DIdUDNPcD06ZYmSbYBrz5ucn0rqrzdN30g87hRkXlA1tbeSXXxpxxS1eR3j/7/GEJTlDNNPOs8zPihdEYCg==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-19T20:34:59.407320Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[1, 2, 3]>
+2022-08-19T20:34:59.407322Z  INFO sui::client_commands: Transaction Kind : Publish
+2022-08-19T20:34:59.407343Z  INFO sui::client_commands: [1m----- Publish Results ----[0m
+2022-08-19T20:34:59.407349Z  INFO sui::client_commands: [1mThe newly published package object ID: 0xc6c07d7514a34940772511e06551d45d16575dcc
+2022-08-19T20:34:59.407353Z  INFO sui::client_commands: [0m
+2022-08-19T20:34:59.407355Z  INFO sui::client_commands: Updated Gas : Coin { id: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb, value: 99997451 }
+2022-08-19T20:34:59.408190Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:34:59.408190Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:35:41.196849Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:35:41.196827Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:35:41.380501Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-19T20:35:41.380582Z  INFO sui::client_commands: Transaction Hash: w5XG9I5fW30WsFNfTWKe4anU6vj+eA0Hz7UJPxnMMug=
+2022-08-19T20:35:41.380603Z  INFO sui::client_commands: Transaction Signature: hKQP9ssZIF2A1IS4KaV4MSAUQTJFSYjhMGmE3STR6Ya/7VfW7gFwcqdrt9Gj0t4JvswvUewguwd1G3TGjGhbBA==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-19T20:35:41.380624Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2022-08-19T20:35:41.380660Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-19T20:35:41.380680Z  INFO sui::client_commands: Package ID : 0xc6c07d7514a34940772511e06551d45d16575dcc
+2022-08-19T20:35:41.380684Z  INFO sui::client_commands: Module : color_object
+2022-08-19T20:35:41.380686Z  INFO sui::client_commands: Function : create
+2022-08-19T20:35:41.380688Z  INFO sui::client_commands: Arguments : ["", 255, ""]
+2022-08-19T20:35:41.380690Z  INFO sui::client_commands: Type Arguments : []
+2022-08-19T20:35:41.380692Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-19T20:35:41.380694Z  INFO sui::client_commands: Status : Success
+2022-08-19T20:35:41.380696Z  INFO sui::client_commands: Created Objects:
+2022-08-19T20:35:41.380698Z  INFO sui::client_commands:   - ID: 0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1 , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-19T20:35:41.380700Z  INFO sui::client_commands: Mutated Objects:
+2022-08-19T20:35:41.380702Z  INFO sui::client_commands:   - ID: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-19T20:35:41.381484Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:35:41.381535Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:08.247767Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:36:08.247767Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:36:08.359821Z  INFO sui::client_commands: [1m----- Move Object (0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1[1]) -----[0m
+2022-08-19T20:36:08.359935Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-19T20:36:08.359940Z  INFO sui::client_commands: [1;90mVersion[0m: 1
+2022-08-19T20:36:08.359942Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 13
+2022-08-19T20:36:08.359944Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: w5XG9I5fW30WsFNfTWKe4anU6vj+eA0Hz7UJPxnMMug=
+2022-08-19T20:36:08.359961Z  INFO sui::client_commands: [1m----- Data -----[0m
+2022-08-19T20:36:08.359965Z  INFO sui::client_commands: [1;90mtype[0m: 0xc6c07d7514a34940772511e06551d45d16575dcc::color_object::ColorObject
+2022-08-19T20:36:08.359967Z  INFO sui::client_commands: [1;90mblue[0m: 0
+2022-08-19T20:36:08.359969Z  INFO sui::client_commands: [1;90mgreen[0m: 255
+2022-08-19T20:36:08.359970Z  INFO sui::client_commands: [1;90minfo[0m: 0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1[1]
+2022-08-19T20:36:08.359973Z  INFO sui::client_commands: [1;90mred[0m: 0
+2022-08-19T20:36:08.360491Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:08.360535Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:34.801970Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:36:34.801974Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:36:34.853784Z  INFO sui::client_commands: {
+2022-08-19T20:36:34.853843Z  INFO sui::client_commands:   "data": {
+2022-08-19T20:36:34.853848Z  INFO sui::client_commands:     "dataType": "moveObject",
+2022-08-19T20:36:34.853866Z  INFO sui::client_commands:     "type": "0xc6c07d7514a34940772511e06551d45d16575dcc::color_object::ColorObject",
+2022-08-19T20:36:34.853870Z  INFO sui::client_commands:     "has_public_transfer": false,
+2022-08-19T20:36:34.853892Z  INFO sui::client_commands:     "fields": {
+2022-08-19T20:36:34.853896Z  INFO sui::client_commands:       "blue": 0,
+2022-08-19T20:36:34.853898Z  INFO sui::client_commands:       "green": 255,
+2022-08-19T20:36:34.853900Z  INFO sui::client_commands:       "info": {
+2022-08-19T20:36:34.853902Z  INFO sui::client_commands:         "id": "0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1",
+2022-08-19T20:36:34.853904Z  INFO sui::client_commands:         "version": 1
+2022-08-19T20:36:34.853906Z  INFO sui::client_commands:       },
+2022-08-19T20:36:34.853908Z  INFO sui::client_commands:       "red": 0
+2022-08-19T20:36:34.853910Z  INFO sui::client_commands:     }
+2022-08-19T20:36:34.853933Z  INFO sui::client_commands:   },
+2022-08-19T20:36:34.853938Z  INFO sui::client_commands:   "owner": {
+2022-08-19T20:36:34.853942Z  INFO sui::client_commands:     "AddressOwner": "0x285ef0176e73a09a7fe74e64d831341573b75195"
+2022-08-19T20:36:34.853944Z  INFO sui::client_commands:   },
+2022-08-19T20:36:34.853946Z  INFO sui::client_commands:   "previousTransaction": "w5XG9I5fW30WsFNfTWKe4anU6vj+eA0Hz7UJPxnMMug=",
+2022-08-19T20:36:34.853948Z  INFO sui::client_commands:   "storageRebate": 13,
+2022-08-19T20:36:34.853950Z  INFO sui::client_commands:   "reference": {
+2022-08-19T20:36:34.853952Z  INFO sui::client_commands:     "objectId": "0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1",
+2022-08-19T20:36:34.853954Z  INFO sui::client_commands:     "version": 1,
+2022-08-19T20:36:34.853956Z  INFO sui::client_commands:     "digest": "x6hgTJSjd159rPbsBloHvE0LpnMfpdwte6DY0Nr34iM="
+2022-08-19T20:36:34.853957Z  INFO sui::client_commands:   }
+2022-08-19T20:36:34.853959Z  INFO sui::client_commands: }
+2022-08-19T20:36:34.854476Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:34.854494Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:56.020198Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:36:56.020199Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:36:56.072559Z  INFO sui::client_commands: Showing 5 results.
+2022-08-19T20:36:56.072639Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-19T20:36:56.072663Z  INFO sui::client_commands: 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-19T20:36:56.072668Z  INFO sui::client_commands: 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-19T20:36:56.072692Z  INFO sui::client_commands: 0x2fdcc18509b0ffa97008d2d5f6f7161410f66e25
+2022-08-19T20:36:56.072698Z  INFO sui::client_commands: 0xb731a4a5251d37065a5e97f557fce60f8d37b170
+2022-08-19T20:36:56.073123Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:36:56.073146Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:38:29.980756Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:38:29.980756Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:38:30.094283Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-19T20:38:30.094413Z  INFO sui::client_commands: Transaction Hash: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=
+2022-08-19T20:38:30.094492Z  INFO sui::client_commands: Transaction Signature: pYh6sS+ByCVvwQkHIeTJ9Rtac799gMP7Y7/Bqpd1QXSBSZrPc19PHocuun67isQGzxsAsS7XhASRZtF7uIy9Cg==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-19T20:38:30.094560Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[1, 2, 3]>
+2022-08-19T20:38:30.094572Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-19T20:38:30.094576Z  INFO sui::client_commands: Package ID : 0xc6c07d7514a34940772511e06551d45d16575dcc
+2022-08-19T20:38:30.094626Z  INFO sui::client_commands: Module : color_object
+2022-08-19T20:38:30.094643Z  INFO sui::client_commands: Function : transfer
+2022-08-19T20:38:30.094707Z  INFO sui::client_commands: Arguments : ["0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1", "0xc13da8eb0f51361520fc5b3114343ecfc2ec56de"]
+2022-08-19T20:38:30.094771Z  INFO sui::client_commands: Type Arguments : []
+2022-08-19T20:38:30.094834Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-19T20:38:30.094900Z  INFO sui::client_commands: Status : Success
+2022-08-19T20:38:30.094915Z  INFO sui::client_commands: Mutated Objects:
+2022-08-19T20:38:30.094982Z  INFO sui::client_commands:   - ID: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-19T20:38:30.095055Z  INFO sui::client_commands:   - ID: 0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1 , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-19T20:38:30.095950Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:38:30.095987Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:43:49.761153Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:43:49.761164Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:43:49.810461Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-19T20:43:49.810561Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-19T20:43:49.810587Z  INFO sui::client_commands:  0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 |     0      | M628ofV8L1vunA5bOIvrZZM2hDxEOCLKaPbh5lslc0M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:43:49.810622Z  INFO sui::client_commands:  0x0f76d975fb057e9c7c9bb8aee3d5997d03bc2401 |     0      | 38q+VERQnE3p0M35cVXgCtvYdlXgd6EZGnr2tDBW38M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:43:49.810628Z  INFO sui::client_commands:  0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1 |     2      | 0z0NgIWrbArCH8FbmTTk0xmvkkSSRJJt0writdLvmak= |  AddressOwner   | 0xc6c07d7514a34940772511e06551d45d16575dcc::color_object::ColorObject
+2022-08-19T20:43:49.810630Z  INFO sui::client_commands:  0xaa5336070b5208ae6a413611677a8d553e0d474a |     0      | +1BM9saZyJq/ijnh58Kx4ERxQ766WDKYZmGdziZC9jw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:43:49.810631Z  INFO sui::client_commands:  0xc26133f1568095eea126e4331afddcf73d9ffb06 |     0      | igA/a7hd8gnmWxGLCptnc14yj9wmDBh012TPAs4UzJc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:43:49.810633Z  INFO sui::client_commands:  0xe872ef81daadfc6434e3f3937dbdf2d2781227c3 |     2      | x4avwiIWGXInPynGqeaTx79d31qYYPhz1BX02lwN2L8= |  AddressOwner   | 0x750a9b9a042c24cde329841bdebcd9555efe3eb8::color_object::ColorObject
+2022-08-19T20:43:49.810635Z  INFO sui::client_commands:  0xfd3143140c4818747a71de695d6820ae64def456 |     0      | aEOt6qaL98V8LYPjbG9Fo5kUmcJKDALsLF6VIDTLDJ8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:43:49.810636Z  INFO sui::client_commands: Showing 7 results.
+2022-08-19T20:43:49.811117Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:43:49.811169Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:44:55.879727Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:44:55.879836Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:44:55.944440Z ERROR sui_core::gateway_state: All transaction retries failed num_retries=5 tx_digest=4gmSLwFywf8vo2n+PPMFKg4eEt5jLzBgzAydq/RbEAo=
+2022-08-19T20:44:55.944921Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:44:55.944938Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:45:21.774525Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:45:21.774554Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:45:22.008128Z ERROR sui_core::gateway_state: All transaction retries failed num_retries=5 tx_digest=4gmSLwFywf8vo2n+PPMFKg4eEt5jLzBgzAydq/RbEAo=
+2022-08-19T20:45:22.008774Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:45:22.008791Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:26.396893Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:46:26.397004Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:46:26.573516Z  INFO sui::client_commands: Active address switched to 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-19T20:46:26.574002Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:26.574023Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:31.898144Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:46:31.898144Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:46:32.072431Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-19T20:46:32.072523Z  INFO sui::client_commands: Transaction Hash: Ec2ojXlW8ioY2tWsBFxOb4hseLKCLAP7GY3hklXgN0I=
+2022-08-19T20:46:32.072583Z  INFO sui::client_commands: Transaction Signature: IU5fU2XooIHd2wv5tA7xiYzqwKbao//Vma38skyjWfkbbaQRgZhAdIlUf/u7FwKJ6J75hR4BltCdvBJ8UqJRCA==@tbkHnJgRfMrqJ1aMkgWPrTDzqu3AyUwlgfsElLCPK8I=
+2022-08-19T20:46:32.072660Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 2]>
+2022-08-19T20:46:32.072676Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-19T20:46:32.072688Z  INFO sui::client_commands: Package ID : 0xc6c07d7514a34940772511e06551d45d16575dcc
+2022-08-19T20:46:32.072695Z  INFO sui::client_commands: Module : color_object
+2022-08-19T20:46:32.072702Z  INFO sui::client_commands: Function : delete
+2022-08-19T20:46:32.072709Z  INFO sui::client_commands: Arguments : ["0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1"]
+2022-08-19T20:46:32.072792Z  INFO sui::client_commands: Type Arguments : []
+2022-08-19T20:46:32.072861Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-19T20:46:32.072883Z  INFO sui::client_commands: Status : Success
+2022-08-19T20:46:32.072895Z  INFO sui::client_commands: Mutated Objects:
+2022-08-19T20:46:32.072902Z  INFO sui::client_commands:   - ID: 0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-19T20:46:32.072907Z  INFO sui::client_commands: Deleted Objects:
+2022-08-19T20:46:32.072913Z  INFO sui::client_commands:   - ID: 0x944e78fe4ad2bf799237e27fa3dcd5ae267955a1
+2022-08-19T20:46:32.074207Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:32.074207Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:59.472730Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-19T20:46:59.472717Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-19T20:46:59.528953Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-19T20:46:59.529024Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-19T20:46:59.529086Z  INFO sui::client_commands:  0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 |     1      | VXK9jBpJIT+KZxUE+g+yLa+0SfOJ0BEzM1gSyUK+ohA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:46:59.529093Z  INFO sui::client_commands:  0x0f76d975fb057e9c7c9bb8aee3d5997d03bc2401 |     0      | 38q+VERQnE3p0M35cVXgCtvYdlXgd6EZGnr2tDBW38M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:46:59.529094Z  INFO sui::client_commands:  0xaa5336070b5208ae6a413611677a8d553e0d474a |     0      | +1BM9saZyJq/ijnh58Kx4ERxQ766WDKYZmGdziZC9jw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:46:59.529096Z  INFO sui::client_commands:  0xc26133f1568095eea126e4331afddcf73d9ffb06 |     0      | igA/a7hd8gnmWxGLCptnc14yj9wmDBh012TPAs4UzJc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:46:59.529129Z  INFO sui::client_commands:  0xe872ef81daadfc6434e3f3937dbdf2d2781227c3 |     2      | x4avwiIWGXInPynGqeaTx79d31qYYPhz1BX02lwN2L8= |  AddressOwner   | 0x750a9b9a042c24cde329841bdebcd9555efe3eb8::color_object::ColorObject
+2022-08-19T20:46:59.529165Z  INFO sui::client_commands:  0xfd3143140c4818747a71de695d6820ae64def456 |     0      | aEOt6qaL98V8LYPjbG9Fo5kUmcJKDALsLF6VIDTLDJ8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-19T20:46:59.529170Z  INFO sui::client_commands: Showing 6 results.
+2022-08-19T20:46:59.529710Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-19T20:46:59.529722Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped

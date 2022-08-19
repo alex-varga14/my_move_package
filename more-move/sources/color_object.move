@@ -71,10 +71,15 @@ module more_move::color_object {
 
     // == Functions covered in Chapter 3 ==
 
+    // Entry function to turn an existing (owned) ColorObject into an immutable object
+
+    // transfer::freeze_object requires passing object by value.
+    // passing by reference would allow for the object to be mutable after being frozen
     public entry fun freeze_object(object: ColorObject) {
         transfer::freeze_object(object)
     }
 
+    // API that creates immutable object at birth. IMMUTABLE CTOR
     public entry fun create_immutable(red: u8, green: u8, blue: u8, ctx: &mut TxContext) {
         let color_object = new(red, green, blue, ctx);
         transfer::freeze_object(color_object)
@@ -231,6 +236,7 @@ module more_move::color_objectTests {
         let sender2 = @0x2;
         test_scenario::next_tx(scenario, &sender2);
         {
+            // use take_immutable and subsequently borrow to obtain read only reference to object
             let object_wrapper = test_scenario::take_immutable<ColorObject>(scenario);
             let object = test_scenario::borrow(&object_wrapper);
             let (red, green, blue) = color_object::get_color(object);
