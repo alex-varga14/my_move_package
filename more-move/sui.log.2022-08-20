@@ -1,0 +1,480 @@
+2022-08-20T00:10:07.973216Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:10:07.973212Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:10:08.032526Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:10:08.032545Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:08.532469Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:11:08.532575Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:11:08.588423Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:08.588450Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:14.860304Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:11:14.860402Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:11:14.968619Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:14.968640Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:26.270663Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:11:26.270700Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:11:26.329202Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:26.329222Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:43.622228Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:11:43.622336Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:11:45.590703Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:11:45.590826Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:13:02.894208Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:13:02.894229Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:13:03.587250Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.587317Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.587790Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.587817Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.588318Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.588335Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.588805Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.588821Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.589300Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.589323Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.589728Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.589746Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: ayvvho7923rp40PdIbigO7WNW1J07aYemPXK4llvzho=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.590220Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.590263Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.590632Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.590648Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.590888Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.590906Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.591268Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.591284Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.591578Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.591594Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.591825Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.591841Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: bpp6F7DRkWQg/mdv7Lerm0Z5B/YtN4tSNI/cnn3og7E=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.592176Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.592191Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.592493Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.592509Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.592940Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.592956Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.593467Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.593483Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.593915Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.593933Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.594391Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.594407Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: iB9bgP5kGA4cQhCOtSBiekQ8qazheXLJfd0lBGBVsps=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.673174Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.673229Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.673745Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.673766Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.674279Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.674296Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.674802Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.674821Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.675263Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.675281Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.675773Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06
+2022-08-20T00:13:03.675793Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#5d6cb7ded4e877261bebf42ed0f3e874937224c760c1c3d40455547205ac1f06, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: SzOqq6m8eH6OQtFlA5XQUDoIH7yV2YordGYXW/MUwvg=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.676270Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.676287Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.676734Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.676783Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.677289Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.677337Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.677766Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.677783Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.678290Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a
+2022-08-20T00:13:03.678338Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#1786cbe4a7e49cde5beed53890b5ac6284224a0678280e113dc8657795a5071a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.678895Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a
+2022-08-20T00:13:03.678982Z  INFO sui_core::safe_client: Client error error=PairwiseSyncFailed { xsource: k#e47409c6593bbb6ff7f7f595ef7ade4f6fcafe4019ed926feeeae1ffa4b8310a, destination: k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc, tx_digest: 6t2u3UAEUPZXoCKx+XOp9606rTw0GOId7K9oAhgeBx0=, error: RpcError("error trying to connect: tcp connect error: Connection refused (os error 111)") } authority=k#2e238cc8108465268dca1a171cce425c3ee969c6bf81704e55e12ecded4ee5fc
+2022-08-20T00:13:03.830754Z  INFO sui::client_commands: Showing 5 results.
+2022-08-20T00:13:03.830833Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T00:13:03.830874Z  INFO sui::client_commands: 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-20T00:13:03.830920Z  INFO sui::client_commands: 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-20T00:13:03.830927Z  INFO sui::client_commands: 0x2fdcc18509b0ffa97008d2d5f6f7161410f66e25
+2022-08-20T00:13:03.830961Z  INFO sui::client_commands: 0xb731a4a5251d37065a5e97f557fce60f8d37b170
+2022-08-20T00:13:03.831748Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:13:03.831781Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:17:43.465055Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:17:43.465087Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:17:44.858010Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:17:44.858027Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:18:32.717382Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:18:32.717397Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:18:33.569755Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:18:33.569766Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:19:35.673027Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:19:35.673007Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:19:37.859458Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T00:19:37.859532Z  INFO sui::client_commands: Transaction Hash: wdPc13SWWGLlgGpeAd8GlpyR7dHntZkq1/av66UvThw=
+2022-08-20T00:19:37.859562Z  INFO sui::client_commands: Transaction Signature: DDccTcLsAGzcGsUM7LbGUdo9PRKv8G7PxVo/4l640kdTS+AYxUZHfWFeBB43jW3lpQI86Dk8cxsfeg19oajzAA==@tbkHnJgRfMrqJ1aMkgWPrTDzqu3AyUwlgfsElLCPK8I=
+2022-08-20T00:19:37.859587Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-08-20T00:19:37.859590Z  INFO sui::client_commands: Transaction Kind : Publish
+2022-08-20T00:19:37.859592Z  INFO sui::client_commands: [1m----- Publish Results ----[0m
+2022-08-20T00:19:37.859595Z  INFO sui::client_commands: [1mThe newly published package object ID: 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T00:19:37.859601Z  INFO sui::client_commands: [0m
+2022-08-20T00:19:37.859604Z  INFO sui::client_commands: Updated Gas : Coin { id: 0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11, value: 99998464 }
+2022-08-20T00:19:37.860231Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:19:37.860248Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:22:10.119229Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:22:10.119299Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:22:10.296270Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T00:22:10.296340Z  INFO sui::client_commands: Transaction Hash: jDATISdC69EYugQ1w4znMXULVmMzB6Cjc7mjzyhAkQ8=
+2022-08-20T00:22:10.296343Z  INFO sui::client_commands: Transaction Signature: kOZ4LokJ0BiuOb+na5IC/tCFt7DTpLTNRL+gs2rbsguMoIwue79JwXylolapZ9TJmkRxgOZtkzXsMzi26vqkCw==@tbkHnJgRfMrqJ1aMkgWPrTDzqu3AyUwlgfsElLCPK8I=
+2022-08-20T00:22:10.296345Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 2]>
+2022-08-20T00:22:10.296346Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-20T00:22:10.296347Z  INFO sui::client_commands: Package ID : 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T00:22:10.296348Z  INFO sui::client_commands: Module : trusted_swap
+2022-08-20T00:22:10.296350Z  INFO sui::client_commands: Function : create_object
+2022-08-20T00:22:10.296351Z  INFO sui::client_commands: Arguments : [8, 10]
+2022-08-20T00:22:10.296352Z  INFO sui::client_commands: Type Arguments : []
+2022-08-20T00:22:10.296353Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-20T00:22:10.296354Z  INFO sui::client_commands: Status : Success
+2022-08-20T00:22:10.296355Z  INFO sui::client_commands: Created Objects:
+2022-08-20T00:22:10.296414Z  INFO sui::client_commands:   - ID: 0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-20T00:22:10.296417Z  INFO sui::client_commands: Mutated Objects:
+2022-08-20T00:22:10.296421Z  INFO sui::client_commands:   - ID: 0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-20T00:22:10.297094Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:22:10.297112Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:21.803908Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:23:21.803912Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:23:21.861512Z  INFO sui::client_commands: {
+2022-08-20T00:23:21.861576Z  INFO sui::client_commands:   "data": {
+2022-08-20T00:23:21.861585Z  INFO sui::client_commands:     "dataType": "moveObject",
+2022-08-20T00:23:21.861609Z  INFO sui::client_commands:     "type": "0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::Object",
+2022-08-20T00:23:21.861649Z  INFO sui::client_commands:     "has_public_transfer": true,
+2022-08-20T00:23:21.861682Z  INFO sui::client_commands:     "fields": {
+2022-08-20T00:23:21.861725Z  INFO sui::client_commands:       "info": {
+2022-08-20T00:23:21.861763Z  INFO sui::client_commands:         "id": "0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c",
+2022-08-20T00:23:21.861788Z  INFO sui::client_commands:         "version": 1
+2022-08-20T00:23:21.861792Z  INFO sui::client_commands:       },
+2022-08-20T00:23:21.861794Z  INFO sui::client_commands:       "scarcity": 8,
+2022-08-20T00:23:21.861796Z  INFO sui::client_commands:       "style": 10
+2022-08-20T00:23:21.861798Z  INFO sui::client_commands:     }
+2022-08-20T00:23:21.861800Z  INFO sui::client_commands:   },
+2022-08-20T00:23:21.861801Z  INFO sui::client_commands:   "owner": {
+2022-08-20T00:23:21.861803Z  INFO sui::client_commands:     "AddressOwner": "0xc13da8eb0f51361520fc5b3114343ecfc2ec56de"
+2022-08-20T00:23:21.861825Z  INFO sui::client_commands:   },
+2022-08-20T00:23:21.861831Z  INFO sui::client_commands:   "previousTransaction": "jDATISdC69EYugQ1w4znMXULVmMzB6Cjc7mjzyhAkQ8=",
+2022-08-20T00:23:21.861854Z  INFO sui::client_commands:   "storageRebate": 13,
+2022-08-20T00:23:21.861859Z  INFO sui::client_commands:   "reference": {
+2022-08-20T00:23:21.861884Z  INFO sui::client_commands:     "objectId": "0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c",
+2022-08-20T00:23:21.861910Z  INFO sui::client_commands:     "version": 1,
+2022-08-20T00:23:21.861937Z  INFO sui::client_commands:     "digest": "9z5nM7o0eSxeIYh9qj8a3DZntnFS+SipmRnfc4Agmw0="
+2022-08-20T00:23:21.861943Z  INFO sui::client_commands:   }
+2022-08-20T00:23:21.861960Z  INFO sui::client_commands: }
+2022-08-20T00:23:21.862462Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:21.862488Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:44.705188Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:23:44.705227Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:23:44.756522Z  INFO sui::client_commands: Showing 5 results.
+2022-08-20T00:23:44.756567Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T00:23:44.756593Z  INFO sui::client_commands: 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-20T00:23:44.756616Z  INFO sui::client_commands: 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-20T00:23:44.756622Z  INFO sui::client_commands: 0x2fdcc18509b0ffa97008d2d5f6f7161410f66e25
+2022-08-20T00:23:44.756626Z  INFO sui::client_commands: 0xb731a4a5251d37065a5e97f557fce60f8d37b170
+2022-08-20T00:23:44.757060Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:44.757078Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:51.408726Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:23:51.408745Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:23:51.463242Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:23:51.463259Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:24:44.602308Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:24:44.602322Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:24:44.653144Z  INFO sui::client_commands: Active address switched to 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T00:24:44.653672Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:24:44.653689Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:25:25.792672Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:25:25.792647Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:25:25.962372Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T00:25:25.962462Z  INFO sui::client_commands: Transaction Hash: CmQGWsrClLBF8JoqDXbFvsMY7B7U4PskuNmxDGwtZ7M=
+2022-08-20T00:25:25.962467Z  INFO sui::client_commands: Transaction Signature: 6AsrbwhrYct97IOpZNvLaaAJKJn+45R3JxQCnC64MLDN8lhMNjPK7pFh3kIaxIigEzgWexhBTJ1gj/XUFmMNDQ==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-20T00:25:25.962469Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 2]>
+2022-08-20T00:25:25.962470Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-20T00:25:25.962472Z  INFO sui::client_commands: Package ID : 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T00:25:25.962490Z  INFO sui::client_commands: Module : trusted_swap
+2022-08-20T00:25:25.962499Z  INFO sui::client_commands: Function : create_object
+2022-08-20T00:25:25.962502Z  INFO sui::client_commands: Arguments : [8, 16]
+2022-08-20T00:25:25.962504Z  INFO sui::client_commands: Type Arguments : []
+2022-08-20T00:25:25.962505Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-20T00:25:25.962507Z  INFO sui::client_commands: Status : Success
+2022-08-20T00:25:25.962509Z  INFO sui::client_commands: Created Objects:
+2022-08-20T00:25:25.962530Z  INFO sui::client_commands:   - ID: 0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353 , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-20T00:25:25.962555Z  INFO sui::client_commands: Mutated Objects:
+2022-08-20T00:25:25.962560Z  INFO sui::client_commands:   - ID: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-20T00:25:25.963111Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:25:25.963110Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:27:52.878101Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:27:52.878121Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:27:52.983165Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:27:52.983180Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:35:08.901774Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:35:08.901817Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:35:08.957918Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T00:35:08.958560Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:35:08.958541Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:35:47.449705Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:35:47.449723Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:35:48.150913Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:35:48.150930Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:36:15.772171Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:36:15.772168Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:36:16.486243Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:36:16.486274Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:36:46.524113Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:36:46.524145Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:36:47.253014Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:36:47.253066Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:38:13.192664Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:38:13.192688Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:38:13.875056Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:38:13.875087Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:38:58.724400Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:38:58.724517Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:38:59.425300Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:38:59.425346Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:17.610935Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:39:17.610931Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:39:18.351896Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:18.351921Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:33.357327Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:39:33.358195Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:39:33.411303Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:33.411321Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:56.475715Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:39:56.475837Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:39:56.530373Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:39:56.530388Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:40:34.416102Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:40:34.416133Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:40:34.467486Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T00:40:34.467542Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T00:40:34.467546Z  INFO sui::client_commands:  0x03c8d0542dc4a64202cc0fe6a59dec24e7294ce5 |     1      | QJu4ehKqQO0IBatkABFzAVqJc/R0VWQp6f+ztHpOsaY= |  AddressOwner   | 0x23303c4d2c1f384d48a8dc406ce787e28931f9f5::m1::Forge
+2022-08-20T00:40:34.467565Z  INFO sui::client_commands:  0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353 |     1      | pNFBLLxdXleJxNmY1PTm8oetIarxU+KnmqlqCA+JG4c= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::Object
+2022-08-20T00:40:34.467569Z  INFO sui::client_commands:  0x46ab9fc9d9c36e7e53fed6de1047a1a15e7d1539 |     1      | 5ihvlRU/Zq2qTZA1QwlS/L9kXjI+ZQDYn07JpZ8y5Pc= |  AddressOwner   | 0x6a8d93fef18f75882abb1a8113df87b6ce0af6e0::color_object::ColorObject
+2022-08-20T00:40:34.467588Z  INFO sui::client_commands:  0x482d70334b6996419e91031f510ca6d4a5ed6dfb |     10     | EbqXFz2lwR21IHVvh8SgLd48+LacTLB01t8BKaiWrkc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T00:40:34.467592Z  INFO sui::client_commands:  0x4f4d6b6d951494a469f8e5146f175134ec937f45 |     0      | fBmxPyO2vhmI7DTMYNcKcdxKIYXgFGVa6MNr0aoSw50= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T00:40:34.467595Z  INFO sui::client_commands:  0x81dfafb66f0c8703ea220a5495198eb085c2774e |     0      | DWBT25HaQ9qTrJ5nfvYXhwmPDT9eq1L9mLjQwmovcRE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T00:40:34.467615Z  INFO sui::client_commands:  0xa4e2244663f350f28532528eb51126192549c09c |     0      | yrsmmII0R27Ln65MKWqPG6Gz5ZmfOg5NTwf/RYhG5bE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T00:40:34.467620Z  INFO sui::client_commands:  0xca1538fd3e2ce6049f3581ee8086b2440051e5f2 |     0      | NoFOslu4OyN7CuwPz1GET4fwf5YZY5BMhQDFnwDe20w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T00:40:34.467623Z  INFO sui::client_commands: Showing 8 results.
+2022-08-20T00:40:34.468158Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:40:34.468158Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:41:05.148611Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T00:41:05.148605Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T00:41:05.204465Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T00:41:05.204480Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:44:16.714798Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:44:16.714798Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:44:16.895625Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T02:44:16.896373Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:44:16.896402Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:49:23.297645Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:49:23.297762Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:49:26.071217Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T02:49:26.071283Z  INFO sui::client_commands: Transaction Hash: eWzFy+aVjbQzSxjAltcS0fPn9Uz/oQsr8huu7mf2uWA=
+2022-08-20T02:49:26.071288Z  INFO sui::client_commands: Transaction Signature: xjJNA8XpLXWc0VCDUfItDm7hlaeyvwxwjLg/ISwpnGLUaC/dUSf/6/kwLjSzyKilPEALj3Aps5HklgnOD3NoCQ==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-20T02:49:26.071294Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-08-20T02:49:26.071296Z  INFO sui::client_commands: Transaction Kind : Publish
+2022-08-20T02:49:26.071323Z  INFO sui::client_commands: [1m----- Publish Results ----[0m
+2022-08-20T02:49:26.071329Z  INFO sui::client_commands: [1mThe newly published package object ID: 0x02870468796642eb43667e536aac73cfb021cdd2
+2022-08-20T02:49:26.071333Z  INFO sui::client_commands: [0m
+2022-08-20T02:49:26.071354Z  INFO sui::client_commands: List of objects created by running module initializers:
+2022-08-20T02:49:26.071359Z  INFO sui::client_commands: [1m----- Move Object (0xe855bb8b3e2f252cc7378a0a38603618b306946b[1]) -----[0m
+2022-08-20T02:49:26.071383Z  INFO sui::client_commands: [1;90mOwner[0m: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-20T02:49:26.071390Z  INFO sui::client_commands: [1;90mVersion[0m: 1
+2022-08-20T02:49:26.071393Z  INFO sui::client_commands: [1;90mStorage Rebate[0m: 17
+2022-08-20T02:49:26.071413Z  INFO sui::client_commands: [1;90mPrevious Transaction[0m: eWzFy+aVjbQzSxjAltcS0fPn9Uz/oQsr8huu7mf2uWA=
+2022-08-20T02:49:26.071471Z  INFO sui::client_commands: [1m----- Data -----[0m
+2022-08-20T02:49:26.071476Z  INFO sui::client_commands: [1;90mtype[0m: 0x2::coin::TreasuryCap<0x2870468796642eb43667e536aac73cfb021cdd2::give_coin::GODCOIN>
+2022-08-20T02:49:26.071502Z  INFO sui::client_commands: [1;90minfo[0m: 0xe855bb8b3e2f252cc7378a0a38603618b306946b[1]
+2022-08-20T02:49:26.071508Z  INFO sui::client_commands: [1;90mtotal_supply[0m: 
+2022-08-20T02:49:26.071513Z  INFO sui::client_commands:   [1;90mtype[0m: 0x2::balance::Supply<0x2870468796642eb43667e536aac73cfb021cdd2::give_coin::GODCOIN>
+2022-08-20T02:49:26.071535Z  INFO sui::client_commands:   [1;90mvalue[0m: 0
+2022-08-20T02:49:26.071540Z  INFO sui::client_commands: 
+2022-08-20T02:49:26.071543Z  INFO sui::client_commands: Updated Gas : Coin { id: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb, value: 99996314 }
+2022-08-20T02:49:26.072767Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:49:26.072838Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:50:01.080254Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:50:01.080345Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:50:01.451332Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:50:01.451593Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:50:01.451668Z  INFO sui::client_commands:  0x03c8d0542dc4a64202cc0fe6a59dec24e7294ce5 |     1      | QJu4ehKqQO0IBatkABFzAVqJc/R0VWQp6f+ztHpOsaY= |  AddressOwner   | 0x23303c4d2c1f384d48a8dc406ce787e28931f9f5::m1::Forge
+2022-08-20T02:50:01.451683Z  INFO sui::client_commands:  0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353 |     1      | pNFBLLxdXleJxNmY1PTm8oetIarxU+KnmqlqCA+JG4c= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::Object
+2022-08-20T02:50:01.451690Z  INFO sui::client_commands:  0x46ab9fc9d9c36e7e53fed6de1047a1a15e7d1539 |     1      | 5ihvlRU/Zq2qTZA1QwlS/L9kXjI+ZQDYn07JpZ8y5Pc= |  AddressOwner   | 0x6a8d93fef18f75882abb1a8113df87b6ce0af6e0::color_object::ColorObject
+2022-08-20T02:50:01.451696Z  INFO sui::client_commands:  0x482d70334b6996419e91031f510ca6d4a5ed6dfb |     11     | e/Z8E/8nweIMM5YWimVEERdUaxEDb3ks41gH0lM7RPU= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:50:01.451702Z  INFO sui::client_commands:  0x4f4d6b6d951494a469f8e5146f175134ec937f45 |     0      | fBmxPyO2vhmI7DTMYNcKcdxKIYXgFGVa6MNr0aoSw50= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:50:01.451716Z  INFO sui::client_commands:  0x81dfafb66f0c8703ea220a5495198eb085c2774e |     0      | DWBT25HaQ9qTrJ5nfvYXhwmPDT9eq1L9mLjQwmovcRE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:50:01.451723Z  INFO sui::client_commands:  0xa4e2244663f350f28532528eb51126192549c09c |     0      | yrsmmII0R27Ln65MKWqPG6Gz5ZmfOg5NTwf/RYhG5bE= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:50:01.451730Z  INFO sui::client_commands:  0xca1538fd3e2ce6049f3581ee8086b2440051e5f2 |     0      | NoFOslu4OyN7CuwPz1GET4fwf5YZY5BMhQDFnwDe20w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:50:01.451738Z  INFO sui::client_commands:  0xe855bb8b3e2f252cc7378a0a38603618b306946b |     1      | yd6QqXrzN9RI4oGyULs2tR84/xISX+kFLZ2pEDDwlw0= |  AddressOwner   | 0x2::coin::TreasuryCap<0x2870468796642eb43667e536aac73cfb021cdd2::give_coin::GODCOIN>
+2022-08-20T02:50:01.451746Z  INFO sui::client_commands: Showing 9 results.
+2022-08-20T02:50:01.453102Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:50:01.453141Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:50:33.949097Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:50:33.948606Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:50:34.487620Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T02:50:34.487737Z  INFO sui::client_commands: Transaction Hash: m1TkJ7u87sK6NxRlO823nzafW8lm0ukAE0aoIAKyhMc=
+2022-08-20T02:50:34.487749Z  INFO sui::client_commands: Transaction Signature: jeQbklnSFxc8RF/pMHM2xQjYw7Gk0+s6QbbjQ4UabLYRdmbFnTo4jEl6hFevHicu5SptxV6yvnY4vmrdGah0CA==@zIPYP81ZXtC96Yp4ghFi72rG7WUUAT+mSu8Q8LHgakc=
+2022-08-20T02:50:34.487754Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-08-20T02:50:34.487758Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-20T02:50:34.487762Z  INFO sui::client_commands: Package ID : 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T02:50:34.487767Z  INFO sui::client_commands: Module : trusted_swap
+2022-08-20T02:50:34.487775Z  INFO sui::client_commands: Function : request_swap
+2022-08-20T02:50:34.487814Z  INFO sui::client_commands: Arguments : ["0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353", "0x4f4d6b6d951494a469f8e5146f175134ec937f45", "0xa0cef51547c09e069e9776a2b6ff7a5392932725"]
+2022-08-20T02:50:34.487829Z  INFO sui::client_commands: Type Arguments : []
+2022-08-20T02:50:34.487881Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-20T02:50:34.487936Z  INFO sui::client_commands: Status : Success
+2022-08-20T02:50:34.487946Z  INFO sui::client_commands: Created Objects:
+2022-08-20T02:50:34.487952Z  INFO sui::client_commands:   - ID: 0xb7c847024b85e74e38a1d0aa33572ec40a689e59 , Owner: Account Address ( 0xa0cef51547c09e069e9776a2b6ff7a5392932725 )
+2022-08-20T02:50:34.487957Z  INFO sui::client_commands: Mutated Objects:
+2022-08-20T02:50:34.487964Z  INFO sui::client_commands:   - ID: 0x482d70334b6996419e91031f510ca6d4a5ed6dfb , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-20T02:50:34.487968Z  INFO sui::client_commands: Deleted Objects:
+2022-08-20T02:50:34.487973Z  INFO sui::client_commands:   - ID: 0x4f4d6b6d951494a469f8e5146f175134ec937f45
+2022-08-20T02:50:34.487988Z  INFO sui::client_commands: Wrapped Objects:
+2022-08-20T02:50:34.488006Z  INFO sui::client_commands:   - ID: 0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353
+2022-08-20T02:50:34.489365Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:50:34.489365Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:51:36.037899Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:51:36.038024Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:51:36.374055Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:51:36.374234Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:51:36.374314Z  INFO sui::client_commands:  0x016325e51182d466985b8074fcc3d1b59e2618f2 |     0      | pVf9CVU72+nomLI8/aaYJWmDJvxWywwU94flvzIQsF8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:51:36.374333Z  INFO sui::client_commands:  0x06d961c9c294cdac59e5fdc36642851a391bac0c |     0      | LOqELJCYt3XaHg02AoRS/tf26/JjJv76DpyVN7yOkVM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:51:36.374338Z  INFO sui::client_commands:  0xa7611e12e28a608c2816d041be27183d7b3a8a7e |     0      | 6iw3zOSr7uuYRzXqlyJ3bvXTy+Ysd0l5p3Sb43ePnWI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:51:36.374342Z  INFO sui::client_commands:  0xa965e3ae3528c94a77f8a2601b233909c6ce1880 |     0      | Wh5c3S+2Zs1+6HizPBl1NXtTukoAgVfsRsXsyDXSB5w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:51:36.374359Z  INFO sui::client_commands:  0xb7c847024b85e74e38a1d0aa33572ec40a689e59 |     1      | LzX+lRKrW615YSgTy6QTLlADzdrrqPAfSUk4+mx63hg= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::ObjectWrapper
+2022-08-20T02:51:36.374363Z  INFO sui::client_commands:  0xbb7eb391a8815482dcf719a194b869289e395d3a |     0      | fiUObCAm9Mm0eRRCsb7MF1pZG+HndNW3fqirvmD5FoA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:51:36.374366Z  INFO sui::client_commands: Showing 6 results.
+2022-08-20T02:51:36.375930Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:51:36.375930Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:51:59.439590Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:51:59.439915Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:51:59.628328Z  INFO sui::client_commands: Showing 5 results.
+2022-08-20T02:51:59.628395Z  INFO sui::client_commands: 0x285ef0176e73a09a7fe74e64d831341573b75195
+2022-08-20T02:51:59.628401Z  INFO sui::client_commands: 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-20T02:51:59.628404Z  INFO sui::client_commands: 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-20T02:51:59.628406Z  INFO sui::client_commands: 0x2fdcc18509b0ffa97008d2d5f6f7161410f66e25
+2022-08-20T02:51:59.628409Z  INFO sui::client_commands: 0xb731a4a5251d37065a5e97f557fce60f8d37b170
+2022-08-20T02:51:59.629025Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:51:59.629054Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:12.244252Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:52:12.244317Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:52:12.427887Z  INFO sui::client_commands: Active address switched to 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de
+2022-08-20T02:52:12.429568Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:12.429627Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:20.242484Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:52:20.242527Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:52:20.576576Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:52:20.576699Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:52:20.576756Z  INFO sui::client_commands:  0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 |     6      | UWaQ+lHuqJT6gnv00zjHp5LQnjBlm9O68fQGSEsrCqA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:52:20.576770Z  INFO sui::client_commands:  0x0f76d975fb057e9c7c9bb8aee3d5997d03bc2401 |     0      | 38q+VERQnE3p0M35cVXgCtvYdlXgd6EZGnr2tDBW38M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:52:20.576775Z  INFO sui::client_commands:  0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c |     1      | 9z5nM7o0eSxeIYh9qj8a3DZntnFS+SipmRnfc4Agmw0= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::Object
+2022-08-20T02:52:20.576781Z  INFO sui::client_commands:  0xaa5336070b5208ae6a413611677a8d553e0d474a |     0      | +1BM9saZyJq/ijnh58Kx4ERxQ766WDKYZmGdziZC9jw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:52:20.576785Z  INFO sui::client_commands:  0xc26133f1568095eea126e4331afddcf73d9ffb06 |     0      | igA/a7hd8gnmWxGLCptnc14yj9wmDBh012TPAs4UzJc= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:52:20.576791Z  INFO sui::client_commands:  0xe872ef81daadfc6434e3f3937dbdf2d2781227c3 |     2      | x4avwiIWGXInPynGqeaTx79d31qYYPhz1BX02lwN2L8= |  AddressOwner   | 0x750a9b9a042c24cde329841bdebcd9555efe3eb8::color_object::ColorObject
+2022-08-20T02:52:20.576813Z  INFO sui::client_commands:  0xfd3143140c4818747a71de695d6820ae64def456 |     0      | aEOt6qaL98V8LYPjbG9Fo5kUmcJKDALsLF6VIDTLDJ8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:52:20.576818Z  INFO sui::client_commands: Showing 7 results.
+2022-08-20T02:52:20.578313Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:20.578335Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:52.677825Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:52:52.677903Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:52:52.752344Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T02:52:52.752429Z  INFO sui::client_commands: Transaction Hash: qA0YMjAlzKkfZUglR/VBSupvM4TUH43CwIEzOWOEGOU=
+2022-08-20T02:52:52.752458Z  INFO sui::client_commands: Transaction Signature: SeyklTrF5/fAkwyIlZqO92theu7h3Xfw2DhHDufrF2uiLCK2Ol91tFMFc9LCrMYLcftCdBlBk93Hs875WjHPAA==@tbkHnJgRfMrqJ1aMkgWPrTDzqu3AyUwlgfsElLCPK8I=
+2022-08-20T02:52:52.752490Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-08-20T02:52:52.752517Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-20T02:52:52.752550Z  INFO sui::client_commands: Package ID : 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T02:52:52.752579Z  INFO sui::client_commands: Module : trusted_swap
+2022-08-20T02:52:52.752611Z  INFO sui::client_commands: Function : request_swap
+2022-08-20T02:52:52.752644Z  INFO sui::client_commands: Arguments : ["0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c", "0xc26133f1568095eea126e4331afddcf73d9ffb06", "0xa0cef51547c09e069e9776a2b6ff7a5392932725"]
+2022-08-20T02:52:52.752673Z  INFO sui::client_commands: Type Arguments : []
+2022-08-20T02:52:52.752706Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-20T02:52:52.752736Z  INFO sui::client_commands: Status : Success
+2022-08-20T02:52:52.752768Z  INFO sui::client_commands: Created Objects:
+2022-08-20T02:52:52.752804Z  INFO sui::client_commands:   - ID: 0x4ce955b22a08174c0e80f51d3815213f4de90550 , Owner: Account Address ( 0xa0cef51547c09e069e9776a2b6ff7a5392932725 )
+2022-08-20T02:52:52.752810Z  INFO sui::client_commands: Mutated Objects:
+2022-08-20T02:52:52.752842Z  INFO sui::client_commands:   - ID: 0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-20T02:52:52.752873Z  INFO sui::client_commands: Deleted Objects:
+2022-08-20T02:52:52.752907Z  INFO sui::client_commands:   - ID: 0xc26133f1568095eea126e4331afddcf73d9ffb06
+2022-08-20T02:52:52.752940Z  INFO sui::client_commands: Wrapped Objects:
+2022-08-20T02:52:52.752970Z  INFO sui::client_commands:   - ID: 0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c
+2022-08-20T02:52:52.753793Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:52:52.753803Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:05.142100Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:53:05.142196Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:53:05.478805Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:53:05.478955Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:53:05.478972Z  INFO sui::client_commands:  0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 |     7      | h6d0e6WaW7XwWfU/mH74f7gtdjcMAAIKL9LcM1ug94A= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:05.478977Z  INFO sui::client_commands:  0x0f76d975fb057e9c7c9bb8aee3d5997d03bc2401 |     0      | 38q+VERQnE3p0M35cVXgCtvYdlXgd6EZGnr2tDBW38M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:05.478983Z  INFO sui::client_commands:  0xaa5336070b5208ae6a413611677a8d553e0d474a |     0      | +1BM9saZyJq/ijnh58Kx4ERxQ766WDKYZmGdziZC9jw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:05.478989Z  INFO sui::client_commands:  0xe872ef81daadfc6434e3f3937dbdf2d2781227c3 |     2      | x4avwiIWGXInPynGqeaTx79d31qYYPhz1BX02lwN2L8= |  AddressOwner   | 0x750a9b9a042c24cde329841bdebcd9555efe3eb8::color_object::ColorObject
+2022-08-20T02:53:05.479040Z  INFO sui::client_commands:  0xfd3143140c4818747a71de695d6820ae64def456 |     0      | aEOt6qaL98V8LYPjbG9Fo5kUmcJKDALsLF6VIDTLDJ8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:05.479051Z  INFO sui::client_commands: Showing 5 results.
+2022-08-20T02:53:05.480413Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:05.480495Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:14.284301Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:53:14.284299Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:53:14.505816Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:53:14.505865Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:53:14.505896Z  INFO sui::client_commands:  0x016325e51182d466985b8074fcc3d1b59e2618f2 |     0      | pVf9CVU72+nomLI8/aaYJWmDJvxWywwU94flvzIQsF8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:14.505903Z  INFO sui::client_commands:  0x06d961c9c294cdac59e5fdc36642851a391bac0c |     0      | LOqELJCYt3XaHg02AoRS/tf26/JjJv76DpyVN7yOkVM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:14.505906Z  INFO sui::client_commands:  0x4ce955b22a08174c0e80f51d3815213f4de90550 |     1      | 2TALjKxo82zKoYvnmN8c2Arpp0vG109I5lORnsfcJpU= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::ObjectWrapper
+2022-08-20T02:53:14.505909Z  INFO sui::client_commands:  0xa7611e12e28a608c2816d041be27183d7b3a8a7e |     0      | 6iw3zOSr7uuYRzXqlyJ3bvXTy+Ysd0l5p3Sb43ePnWI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:14.505939Z  INFO sui::client_commands:  0xa965e3ae3528c94a77f8a2601b233909c6ce1880 |     0      | Wh5c3S+2Zs1+6HizPBl1NXtTukoAgVfsRsXsyDXSB5w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:14.506004Z  INFO sui::client_commands:  0xb7c847024b85e74e38a1d0aa33572ec40a689e59 |     1      | LzX+lRKrW615YSgTy6QTLlADzdrrqPAfSUk4+mx63hg= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::ObjectWrapper
+2022-08-20T02:53:14.506035Z  INFO sui::client_commands:  0xbb7eb391a8815482dcf719a194b869289e395d3a |     0      | fiUObCAm9Mm0eRRCsb7MF1pZG+HndNW3fqirvmD5FoA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:14.506070Z  INFO sui::client_commands: Showing 7 results.
+2022-08-20T02:53:14.506956Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:14.506974Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:48.952036Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:53:48.952327Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:53:49.106650Z  INFO sui::client_commands: Active address switched to 0xa0cef51547c09e069e9776a2b6ff7a5392932725
+2022-08-20T02:53:49.107846Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:49.107869Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:52.860904Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:53:52.860937Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:53:53.243690Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:53:53.243844Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:53:53.243860Z  INFO sui::client_commands:  0x016325e51182d466985b8074fcc3d1b59e2618f2 |     0      | pVf9CVU72+nomLI8/aaYJWmDJvxWywwU94flvzIQsF8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:53.243866Z  INFO sui::client_commands:  0x06d961c9c294cdac59e5fdc36642851a391bac0c |     0      | LOqELJCYt3XaHg02AoRS/tf26/JjJv76DpyVN7yOkVM= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:53.243873Z  INFO sui::client_commands:  0x4ce955b22a08174c0e80f51d3815213f4de90550 |     1      | 2TALjKxo82zKoYvnmN8c2Arpp0vG109I5lORnsfcJpU= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::ObjectWrapper
+2022-08-20T02:53:53.243884Z  INFO sui::client_commands:  0xa7611e12e28a608c2816d041be27183d7b3a8a7e |     0      | 6iw3zOSr7uuYRzXqlyJ3bvXTy+Ysd0l5p3Sb43ePnWI= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:53.243899Z  INFO sui::client_commands:  0xa965e3ae3528c94a77f8a2601b233909c6ce1880 |     0      | Wh5c3S+2Zs1+6HizPBl1NXtTukoAgVfsRsXsyDXSB5w= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:53.243903Z  INFO sui::client_commands:  0xb7c847024b85e74e38a1d0aa33572ec40a689e59 |     1      | LzX+lRKrW615YSgTy6QTLlADzdrrqPAfSUk4+mx63hg= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::ObjectWrapper
+2022-08-20T02:53:53.243908Z  INFO sui::client_commands:  0xbb7eb391a8815482dcf719a194b869289e395d3a |     0      | fiUObCAm9Mm0eRRCsb7MF1pZG+HndNW3fqirvmD5FoA= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:53:53.243912Z  INFO sui::client_commands: Showing 7 results.
+2022-08-20T02:53:53.245140Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:53:53.245148Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:54:52.390313Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:54:52.391749Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:54:52.776435Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-08-20T02:54:52.776479Z  INFO sui::client_commands: Transaction Hash: HMx2/80qBl7dsV6ItvKw+i+r07KdnZjD08YGashycR4=
+2022-08-20T02:54:52.776485Z  INFO sui::client_commands: Transaction Signature: A0ZFGJFB4pdk0O+SpAdy+KZC6ZVdJMcPgn+NqYSOFsrKiriWD+jrSfys5RYd0noUL/HIeRI52OZ+KBzjjJrsBg==@FxSEXUtlkKTyVHkqsZ74pfACtPOKMTMRv7Nmrl65zGs=
+2022-08-20T02:54:52.776488Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-08-20T02:54:52.776491Z  INFO sui::client_commands: Transaction Kind : Call
+2022-08-20T02:54:52.776493Z  INFO sui::client_commands: Package ID : 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26
+2022-08-20T02:54:52.776498Z  INFO sui::client_commands: Module : trusted_swap
+2022-08-20T02:54:52.776555Z  INFO sui::client_commands: Function : execute_swap
+2022-08-20T02:54:52.776604Z  INFO sui::client_commands: Arguments : ["0x4ce955b22a08174c0e80f51d3815213f4de90550", "0xb7c847024b85e74e38a1d0aa33572ec40a689e59"]
+2022-08-20T02:54:52.776648Z  INFO sui::client_commands: Type Arguments : []
+2022-08-20T02:54:52.776674Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-08-20T02:54:52.776709Z  INFO sui::client_commands: Status : Success
+2022-08-20T02:54:52.776716Z  INFO sui::client_commands: Created Objects:
+2022-08-20T02:54:52.776723Z  INFO sui::client_commands:   - ID: 0xf282c91f5398e146498a09595612f5cdd3cb342f , Owner: Account Address ( 0xa0cef51547c09e069e9776a2b6ff7a5392932725 )
+2022-08-20T02:54:52.776726Z  INFO sui::client_commands: Mutated Objects:
+2022-08-20T02:54:52.776730Z  INFO sui::client_commands:   - ID: 0x016325e51182d466985b8074fcc3d1b59e2618f2 , Owner: Account Address ( 0xa0cef51547c09e069e9776a2b6ff7a5392932725 )
+2022-08-20T02:54:52.776733Z  INFO sui::client_commands: Deleted Objects:
+2022-08-20T02:54:52.776802Z  INFO sui::client_commands:   - ID: 0x4ce955b22a08174c0e80f51d3815213f4de90550
+2022-08-20T02:54:52.776811Z  INFO sui::client_commands:   - ID: 0xb7c847024b85e74e38a1d0aa33572ec40a689e59
+2022-08-20T02:54:52.776816Z  INFO sui::client_commands: Unwrapped Objects:
+2022-08-20T02:54:52.776820Z  INFO sui::client_commands:   - ID: 0x23b6ec3b2a1437a7aa8ca2abdb9de38202da8a9c , Owner: Account Address ( 0x285ef0176e73a09a7fe74e64d831341573b75195 )
+2022-08-20T02:54:52.776823Z  INFO sui::client_commands:   - ID: 0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353 , Owner: Account Address ( 0xc13da8eb0f51361520fc5b3114343ecfc2ec56de )
+2022-08-20T02:54:52.777629Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:54:52.777680Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:55:31.541932Z  INFO sui_storage::lock_service: LockService command processing loop started
+2022-08-20T02:55:31.541974Z  INFO sui_storage::lock_service: LockService queries processing loop started
+2022-08-20T02:55:31.820284Z  INFO sui::client_commands:                  Object ID                  |  Version   |                    Digest                    |   Owner Type    |               Object Type               
+2022-08-20T02:55:31.820333Z  INFO sui::client_commands: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-20T02:55:31.820341Z  INFO sui::client_commands:  0x0125ac9095ba1ab6fceef39a9d3dd8d177e19d11 |     7      | h6d0e6WaW7XwWfU/mH74f7gtdjcMAAIKL9LcM1ug94A= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:55:31.820349Z  INFO sui::client_commands:  0x0f76d975fb057e9c7c9bb8aee3d5997d03bc2401 |     0      | 38q+VERQnE3p0M35cVXgCtvYdlXgd6EZGnr2tDBW38M= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:55:31.820356Z  INFO sui::client_commands:  0x282e7e5cfef0f40bae5cf7f8bf840fd56c5e2353 |     3      | djruAAeSngWlMGYCLEXLIL/723B19NDv7pGzpwiq1PA= |  AddressOwner   | 0x6938167c1cb01c9697a803e9ea62cdd0f9834f26::trusted_swap::Object
+2022-08-20T02:55:31.820361Z  INFO sui::client_commands:  0xaa5336070b5208ae6a413611677a8d553e0d474a |     0      | +1BM9saZyJq/ijnh58Kx4ERxQ766WDKYZmGdziZC9jw= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:55:31.820366Z  INFO sui::client_commands:  0xe872ef81daadfc6434e3f3937dbdf2d2781227c3 |     2      | x4avwiIWGXInPynGqeaTx79d31qYYPhz1BX02lwN2L8= |  AddressOwner   | 0x750a9b9a042c24cde329841bdebcd9555efe3eb8::color_object::ColorObject
+2022-08-20T02:55:31.820372Z  INFO sui::client_commands:  0xfd3143140c4818747a71de695d6820ae64def456 |     0      | aEOt6qaL98V8LYPjbG9Fo5kUmcJKDALsLF6VIDTLDJ8= |  AddressOwner   |      0x2::coin::Coin<0x2::sui::SUI>     
+2022-08-20T02:55:31.820376Z  INFO sui::client_commands: Showing 6 results.
+2022-08-20T02:55:31.821012Z  INFO sui_storage::lock_service: LockService command loop stopped, the sender on other end hung up/dropped
+2022-08-20T02:55:31.821045Z  INFO sui_storage::lock_service: LockService queries loop stopped, the sender on other end hung up/dropped

@@ -219,6 +219,10 @@ module more_move::color_objectTests {
 
     // == Tests covered in Chapter 3 ==
 
+    // test_scenario::take_immutable<T> to take an immutable object wrapper from global storage.
+    // test_scenario::borrow to obtain a read-only reference from the wrapper above.
+    // test_scenario::return_immutable to return the wrapper back to the global storage.
+
     #[test]
     fun test_immutable() {
         let sender1 = @0x1;
